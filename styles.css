@@ -1,3 +1,30 @@
+body {
+  align-content: center;
+  background: rgb(154, 159, 187);
+}
+
 .notes {
   color: red;
+}
+
+#second-input {
+  display: none;
+  margin-top: 0.5rem;
+}
+
+table tr th {
+  color: whitesmoke;
+  background-color: blue;
+  font-weight: bold;
+  padding: 0.5rem;
+  margin: 100px;
+}
+
+table tr td {
+  color: whitesmoke;
+  background-color: teal;
+}
+
+label {
+  color: blue;
 }
