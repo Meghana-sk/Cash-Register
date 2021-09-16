@@ -5,3 +5,7 @@
 #### - It has currencies notes denomination of currencies of Rs. 1, 5, 10, 20, 100, 500, 2000.
 
 #### - Tech stack - HTML, CSS, Javascript
+
+#### - For hosting, Netlify used
+
+#### - Project LIVE at [cashregister](https://digicashregister.netlify.app/)
