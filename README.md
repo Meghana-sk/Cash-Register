@@ -1,4 +1,4 @@
-# Cash-
+# Cash Register Manager Web App
 
 #### - It is a simple cash register manager app which takes amount payable and amount given by the customer and indicates the amount to be returned after payment.
 
